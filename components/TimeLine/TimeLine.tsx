@@ -31,11 +31,11 @@ const TimeLine = () => {
           </h2>
           <i className="text-black">May 2022 - Mar 2023</i>
           <p className="text-black">Karnov Group Denmark, Copenhagen</p>
-          <div>
-            Development of Karnov's digital law platform, integrating legal
+          <p>
+            Development of Karnovs digital law platform, integrating legal
             trials and case studies. Utilized TypeScript, React, and Rails in a
             contract position while also engaged with Abtion.
-          </div>
+          </p>
         </div>
 
         <div className="mt-10 grid-cols-1 gap-2 grid">
@@ -45,9 +45,9 @@ const TimeLine = () => {
           <i className="text-black">Jul 2021 - May 2022</i>
           <p className="text-black">TV2 Danmark, Odense</p>
           <div>
-            Development of Karnov's digital law platform, integrating legal
-            trials and case studies. Utilized TypeScript, React, and Rails in a
-            contract position while also engaged with Abtion.
+            Developed key components for the TV2 Play streaming service,
+            leveraging React and VideoJS. Contributed to the project in a
+            contractual role concurrent with responsibilities at Abtion.
           </div>
         </div>
 
